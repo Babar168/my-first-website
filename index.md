@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello Babz!
+# Hello Smelly Nerd!
 
 Welcome to my website — built from scratch during **National Apprenticeship Week 2026**.
 
